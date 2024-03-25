@@ -57,9 +57,8 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'https://www.linkedin.com/in/kunal-geed/',
-    instagram: 'KunalGeed',
-    stackoverflow: '', // example: '1/jeff-atwood'
+    linkedin: 'kunal-geed',
+    instagram: 'kunal.geed',
     phone: '+31 626519564',
     email: 'kunalgeed15@gmail.com',
   },
@@ -129,9 +128,9 @@ const CONFIG = {
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
-    limit: 2, // How many articles to display. Max is 10.
+    //source: 'dev', // medium | dev
+    //username: 'arifszn', // to hide blog section, keep it empty
+    //limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
