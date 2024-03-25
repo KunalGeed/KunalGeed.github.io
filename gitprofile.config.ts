@@ -33,17 +33,17 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Predictive Modeling of Cell Dynamics',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'I engineered a predictive model aimed at simulating cell dynamics, a breakthrough contribution that has significantly enhanced disease prognosis and guided informed treatment decisions. My work involved establishing a robust pipeline capable of predicting future cell states, incorporating three meticulously crafted models designed to operate efficiently with just a single static image. Through rigorous testing and validation, I successfully demonstrated the models efficacy in capturing underlying cellular dynamics, culminating in a compelling presentation to supervisors and achieving a notable grade of 8.0. This project exemplifies my ability to blend cutting-edge technology with practical applications in the field of biomedical research, showcasing my commitment to advancing healthcare through innovative computational approaches.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
         },
         {
-          title: 'Project Name',
+          title: 'Explainable AI for Aspect-Based Sentiment classification model',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Implemented a cutting-edge neural network model for aspect-based sentiment analysis achieving an impressive accuracy rate of 95%. Additionally, I constructed diagnostic classifiers to systematically test hypotheses regarding the information stored in each layer of the intricate neural network. Through rigorous experimentation and analysis, I verified hypotheses on information preservation across various layers of the model. This research culminated in the acceptance of my thesis paper at ICWE 2022, showcasing my expertise in advancing the field of sentiment analysis and neural network research.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -58,26 +58,14 @@ const CONFIG = {
   },
   social: {
     linkedin: 'https://www.linkedin.com/in/kunal-geed/',
-    twitter: '',
-    mastodon: '',
-    researchGate: '',
-    facebook: '',
     instagram: 'KunalGeed',
-    youtube: '', // example: 'pewdiepie'
-    dribbble: '',
-    behance: '',
-    medium: '',
-    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: '',
-    phone: '',
+    phone: '+31 626519564',
     email: 'kunalgeed15@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1V64o_uZUxcju9i7xdrqgZEyfO4YaoOlQ/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
@@ -94,9 +82,16 @@ const CONFIG = {
     {
       company: 'Nubis: The Digital Tech Agency',
       position: 'Data Analyst',
-      from: 'January 2021',
+      from: 'October 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://nubisonline.com',
+    },
+    {
+      company: 'Serpentine AI',
+      position: 'Commissioner of Internal Affairs',
+      from: 'August 2022',
+      to: 'September 2023',
+      companyLink: 'https://serpentine.ai',
     },
   ],
   certifications: [
